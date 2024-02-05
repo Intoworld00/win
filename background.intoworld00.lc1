@@ -1,0 +1,6 @@
+/* Run it with node, if you want for this this work */
+function hacking(params600)
+{
+  var params600 = 344;
+  hacking.data("website.com", 0x6342523672546240132414656416414654651);
+}
